@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="300px" alt="Coding1" src="https://cdn.dribbble.com/userupload/3273671/file/original-5966c5710b59b3261a84f54a7bf88c44.jpg?compress=1&resize=752x">
 <h1 align="center">Hi 👋, I'm Tanish Gupta</h1>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/RC1A.mp4](https://s3.eu-west-2.amazonaws.com/fifteen-uploads/uploads/2017/05/animated.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishgupta007&label=Profile%20views&color=0e75b6&style=flat" alt="tanishgupta007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanishguptatg" target="blank"><img src="https://img.shields.io/twitter/follow/tanishguptatg?logo=twitter&style=for-the-badge" alt="tanishguptatg" /></a> </p>
@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanishgupta007&show_icons=true&locale=en" alt="tanishgupta007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishgupta007&" alt="tanishgupta007" /></p>
-
+<img align="" src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="tanishgupta" />
 
 <!---
 Tanishgupta007/Tanishgupta007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
