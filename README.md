@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="300px" alt="Coding1" src="https://cdn.dribbble.com/userupload/3273671/file/original-5966c5710b59b3261a84f54a7bf88c44.jpg?compress=1&resize=752x">
+<!-- <img align="center" width="100%" height="300px" alt="Coding1" src="https://cdn.dribbble.com/userupload/3273671/file/original-5966c5710b59b3261a84f54a7bf88c44.jpg?compress=1&resize=752x"> -->
 <h1 align="center">Hi 👋, I'm Tanish Gupta</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/7123758/media/5c2b6b54ae3d5eabd56679e63ed83eaa.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishgupta007&label=Profile%20views&color=0e75b6&style=flat" alt="tanishgupta007" /> </p>
