@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanish Gupta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishgupta007&label=Profile%20views&color=0e75b6&style=flat" alt="tanishgupta007" /> </p>
 <img height="300px" width="400px" align="right" src="https://camo.githubusercontent.com/5f61dcd523c39ffe2c5e94fac1b54e68b43daeb99abe545e1fafa0d686d045d9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313738373332332f73637265656e73686f74732f373132333735382f6d656469612f35633262366235346165336435656162643536363739653633656438336561612e706e67">
 <p align="left"> <a href="https://twitter.com/tanishguptatg" target="blank"><img src="https://img.shields.io/twitter/follow/tanishguptatg?logo=twitter&style=for-the-badge" alt="tanishguptatg" /></a> </p>
 
