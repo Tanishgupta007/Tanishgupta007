@@ -6,7 +6,12 @@
 <p align="left">
 
 
-<a>Tanishm222@gmail.com</a>
+<a> Tanishm222@gmail.com</a>
+<br>
+<br>
+<a> Resume : https://rb.gy/j5jatd </a>
+<br>
+<br>
 <a href="https://api.whatsapp.com/send?phone=+91 9682120569" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
